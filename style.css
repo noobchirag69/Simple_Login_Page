@@ -121,11 +121,3 @@ span {
 #register {
     left: 450px;
 }
-
-/* Responsive Styles */
-
-@media screen and (max-width: 600px) {
-    .chirag {
-        background-image: url("batmobile.jpg");
-    }
-}
